@@ -1,9 +1,6 @@
 <?php
 
 return array(
-//    'news/([0-9]+)' => 'news/view/$1',
-//	'news' => 'news/index', 
-//    'cart/sendform'=>'cart/sendform',
     'search'=>'search/search',
     'my-account'=>'myaccount/enter',
     'account'=>'account/authorization',
